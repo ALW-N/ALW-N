@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alw-n&label=Profile%20views&color=0e75b6&style=flat" alt="alw-n" /> </p>
 
 
-- 🌱 I’m currently learning **React.js Node.js Kubernetes**
+- 🌱 I’m currently learning **React.js Kubernetes**
 
 - 📫 How to reach me **officialalwintomy@gmail.com**
 
